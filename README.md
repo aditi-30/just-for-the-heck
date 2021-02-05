@@ -1,2 +1,2 @@
-# just-for-the-heck
-blah blah
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
